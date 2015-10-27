@@ -1,0 +1,20 @@
+{
+  "name": "digitalx-node",
+  "version": "1.0.0",
+  "description": "Interact with the DigitalX Direct API for buying bitcoins",
+  "main": "digitalx.js",
+  "dependencies": {
+    "crypto": "^0.0.3",
+    "querystring": "^0.2.0",
+    "request": "^2.30.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "test_digitalx.js"
+  },
+  "keywords": [
+    "Bitcoin"
+  ],
+  "author": "Neel Krishnan",
+  "license": "GPL"
+}
